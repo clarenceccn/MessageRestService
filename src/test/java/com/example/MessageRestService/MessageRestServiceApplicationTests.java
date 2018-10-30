@@ -1,4 +1,4 @@
-package com.example.MessageQueue;
+package com.example.MessageRestService;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

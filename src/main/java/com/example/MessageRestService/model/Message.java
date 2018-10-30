@@ -15,12 +15,11 @@ public class Message {
         return this.id;
     }
 
-
-    public String getMessage() {
+    public String getData() {
         return this.data;
     }
 
-    public void setMessage(String msg) {
+    public void setData(String msg) {
         this.data = msg;
     }
 
